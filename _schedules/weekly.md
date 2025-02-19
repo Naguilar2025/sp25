@@ -37,6 +37,10 @@ schedule:
         start: 9:00 AM
         end: 4:00 PM
         location: Warren 101-B
+      - name: Homework 04 Early Deadline
+        start: 5:00 PM
+        end: 5:00 PM
+        class: deadline
   - name: Wednesday
     events:
       - name: Lecture
@@ -51,6 +55,10 @@ schedule:
         start: 1:00 PM
         end: 4:00 PM
         location: Warren 101-B
+      - name: Homework 04
+        start: 5:00 PM
+        end: 5:00 PM
+        class: deadline
   - name: Thursday
     events:  
       - name: Instructor OH
@@ -75,4 +83,8 @@ schedule:
         start: 1:00 PM
         end: 3:00 PM
         location: Warren 101-B
+      - name: Project 01 Checkpoint
+        start: 5:00 PM
+        end: 5:00 PM
+        class: deadline
 ---
